@@ -1,14 +1,21 @@
-## Hi there 👋
+# I`m Kawsar Ahmed (Ashif)
+### Web Developer
+![Web Developer](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/307014423_785394502579740_3555197586100848261_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SITkK_R0FsoAX-Redmv&_nc_ht=scontent.fdac149-1.fna&oh=00_AfBZ-5QhBPgj8x6Vpc460Sj1C7_tCrjKYzolmHcQ2A6ZVQ&oe=63944CEE)
 
-**kawsarbp/kawsarbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning full stack web development
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / PSD TO HTML / JAVASCRIPT & JQUERY / BOOTSTRAP/ PHP / MySQL / LARAVEL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Laravel 
+- 🌱 I’m currently learning Laravel 
+- 👯 I’m looking to collaborate on GItHub 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kawsarbp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashifbp)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarbp)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarbp&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/kawsarbp)  
