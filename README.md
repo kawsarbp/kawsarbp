@@ -18,4 +18,4 @@ Skills:  HTML / CSS / PSD TO HTML / JAVASCRIPT & JQUERY / BOOTSTRAP/ PHP / MySQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarbp&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/kawsarbp)  
+ 
