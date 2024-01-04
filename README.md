@@ -2,9 +2,9 @@
 ### Web Developer
 
 
-I’m currently learning full stack web development
+I’m full-stack web developer
 
-Skills:  HTML / CSS / PSD TO HTML / JAVASCRIPT & JQUERY / BOOTSTRAP/ PHP / MySQL / LARAVEL
+Skills:  HTML / CSS /  Bootstrap / Tailwindcss / PSD TO HTML / JAVASCRIPT & JQUERY / BOOTSTRAP/ PHP / MySQL / LARAVEL
 
 - 🔭 I’m currently working on Laravel 
 - 🌱 I’m currently learning Laravel 
